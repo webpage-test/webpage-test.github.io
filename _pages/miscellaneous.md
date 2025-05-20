@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Group
-permalink: /Group/
+title: Miscellaneous
+permalink: /Miscellaneous/
 subtitle: #Enjoy it even if it is not enjoyable.
 ---
 
-Under Construction
+Put your life story here.
