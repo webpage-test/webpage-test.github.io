@@ -5,9 +5,6 @@ nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: Group
-      permalink: /Group/
-    - title: divider
     - title: Miscellaneous
       permalink: /Miscellaneous/
     - title: divider
