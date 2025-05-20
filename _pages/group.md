@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /Group/
+permalink: /
 title: Group
 description: Members of the lab
 nav: true
