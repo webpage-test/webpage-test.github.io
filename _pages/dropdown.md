@@ -8,6 +8,6 @@ children:
     - title: Miscellaneous
       permalink: /Miscellaneous/
     - title: divider
-    - title: Albums
-      permalink: /Albums/
+    # - title: Albums
+    #   permalink: /Albums/
 ---
