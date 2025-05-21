@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miscellaneous
-permalink: /Miscellaneous/
+permalink: /miscellaneous/
 subtitle: #Enjoy it even if it is not enjoyable.
 ---
 
