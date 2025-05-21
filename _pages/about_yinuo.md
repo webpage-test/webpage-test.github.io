@@ -1,1 +1,1 @@
-Yinuo Yang is a Ph.D. student advised by Prof. Jiayu Zhan.
+**Yinuo Yang** is a second year Ph.D. student advised by Prof. Jiayu Zhan.
