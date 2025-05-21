@@ -9,9 +9,9 @@ profile:
   image: jiayu-profile.png
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Wang Ke Zhen Building 100080 </p>
-    <p>Peking University<p>
-    <p>Beijing</p>
+    <p>Wang Ke Zhen Building 100080, </p>
+    <p>Peking University,<p>
+    <p>Beijing,</p>
     <p>100871 CHINA</p>
 
 news: false  # includes a list of news items
